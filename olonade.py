@@ -151,7 +151,7 @@ def cluster(data):
     
     # trying cluster = 5
     
-    ncluster = 5
+    ncluster = 
 
     # set up the clusterer with the number of expected clusters
     kmeans = cluster.KMeans(n_clusters=ncluster)
