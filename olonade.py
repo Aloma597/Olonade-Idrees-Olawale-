@@ -149,9 +149,9 @@ def cluster(data):
     
     plt.show()   
     
-    # trying cluster = 5
+    # trying cluster = 6
     
-    ncluster = 
+    ncluster = 6
 
     # set up the clusterer with the number of expected clusters
     kmeans = cluster.KMeans(n_clusters=ncluster)
