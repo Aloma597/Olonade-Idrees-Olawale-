@@ -150,7 +150,7 @@ def cluster(data):
     
     plt.show()   
     
-    # trying cluster = 6
+    # trying cluster = 5
     
     ncluster = 5
 
