@@ -9,6 +9,7 @@ Created on Mon May  8 11:49:26 2023
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
+import seaborne as sns
 import scipy.optimize as opt
 import sklearn.cluster as cluster
 import sklearn.metrics as skmet
